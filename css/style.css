@@ -1,0 +1,128 @@
+.main-section{
+    background-color: #F9F8F8;
+}
+.box{
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box-left{
+    width: 671px;
+    display: inline-block;
+    vertical-align: top;
+}
+.box-right{
+    width: 600px;
+    height: 690px;
+    display: inline-block;
+    vertical-align: top;
+}
+.box-img-right{
+    width: 100%;
+}
+.mini-box{
+    width: 339px;
+    height: 81px;
+    background-color: #ECECEC;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.div-p{
+    font-size: 18px;
+    margin-left: 60px;
+}
+.section-h3{
+    color: #7EB693;
+    font-size: 36px;
+    display: inline-block;
+    padding-top: 30px;
+    font-family: "Yellowtail", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.section-p1{
+    color: #274C5B;
+    font-size: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+.section-p2{
+    color: #525C60;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.mini-box-img{
+    display: inline-block;
+}
+.mini-box-p{
+    display: inline-block;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.p-down{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.top{
+    width: 1118px;
+    padding-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.divdiv{
+    width: 257px;
+    height: 335px;
+    background-color: #FFFFFF;
+    display: inline-block;
+}
+.divdiv2{
+    margin-right: 30px;
+}
+.div-h4{
+    text-align: left;
+    font-size: 25px;
+    color: #274C5B;
+    margin-top: 10px;
+    margin-left: 5px;
+    padding-bottom: 15px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+.div-pp{
+   text-align: center; 
+   font-size: 18px;
+   color: #525C60;
+   font-family: "Roboto", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+}
+.header-logo{
+    vertical-align: middle;
+    display: inline-block;
+    padding-left: 50px;
+
+}
+.header-nav{
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 150px;
+}
+.nav-li{
+    display: inline-block;
+    font-size: 20px;
+    color: #274C5B;
+    padding-left: 30px;
+    font-family: 'Roboto';
+}
+.oui{
+    padding-top: 68.64px;
+    padding-bottom: 68.64px;
+}
