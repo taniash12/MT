@@ -118,11 +118,13 @@
 .nav-li{
     display: inline-block;
     font-size: 20px;
-    color: #274C5B;
     padding-left: 30px;
-    font-family: 'Roboto';
 }
 .oui{
     padding-top: 68.64px;
     padding-bottom: 68.64px;
+}
+.navli-a{
+    color: #274C5B;
+    font-family: 'Roboto';
 }
